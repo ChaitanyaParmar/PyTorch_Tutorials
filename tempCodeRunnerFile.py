@@ -1,0 +1,1 @@
+model = ConvNet().to(device)
